@@ -1,0 +1,6 @@
+{
+  "name": "Samosa Rush: Furfuri Chase",
+  "description": "A vibrant 3D Three.js cartoon chase game inspired by Motu Patlu through sunlit Furfuri Nagar Bazaar—dodge rickshaws and goons, collect crispy samosas, switch between Motu and Patlu, and unleash Samosa Power!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
